@@ -1,0 +1,20 @@
+body {
+  color: grey;
+  font-family: 'Lora', serif;
+}
+
+h1, h2{
+  color: #A0A0A0;
+}
+
+.banner {
+  background-image: url("https://unsplash.it/200/300/?random");
+  background-size: cover;
+  padding: 200px 0;
+}
+
+.link-green {
+
+  font-size: 1.3em;
+
+}
